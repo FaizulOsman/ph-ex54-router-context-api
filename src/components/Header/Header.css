@@ -1,0 +1,6 @@
+.header-section {
+  background-color: lightgray;
+  padding: 10px 0;
+  position: sticky;
+  top: 0;
+}
